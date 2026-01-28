@@ -1,0 +1,75 @@
+# PRIBIT Connect Agent를 설치하기 위한 안내 
+
+이 문서는 사용자 PC에 Pribit Connect Agent를 설치하는 방법을 안내합니다.  
+
+<br>
+
+- [1. 사전 준비 사항](#1-)
+- [2. 설치 파일 다운로드](#2-)
+- [3. 설치 과정](#3-)
+- [4. 설치 확인](#4-)
+- [5. 문제 해결](#5-)
+
+<!-- TOC end -->
+
+<br> 
+
+<!-- TOC --><a name="1-"></a>
+## 1. 사전 준비 사항
+- 관리자 권한이 있는 계정 
+- 인터넷 연결 
+
+<br><br> 
+
+<!-- TOC --><a name="2-"></a>
+## 2. 설치 파일 다운로드  
+1) 제공된 설치 파일 [다운로드](https://vpn.kicox.or.kr/) 링크에서 설치 파일을 다운로드합니다.  
+2) 다운로드가 완료되면 파일을 실행합니다.  
+
+<br><br> 
+
+<!-- TOC --><a name="3-"></a> 
+## 3. 설치 과정 
+
+1) 설치 마법사의 안내에 따라 **다음**을 클릭하여 진행합니다.  
+![Agent Installation - installing](/img/agent_installation_installing.png)  
+
+<br>
+
+2) 설치가 완료되면 **마침**을 클릭합니다.  
+![Agent Installation - complete install](/img/agent_installation_complete_install.png)   
+
+<br><br>
+
+<!-- TOC --><a name="4-"></a>
+## 4. 설치 확인
+1) 바탕화면 또는 시작 메뉴에서 Connect Agent 아이콘을 확인합니다.  
+![Agent Installation - complete install icon](/img/agent_installation_complete_install_icon.png)  
+
+**PRIBIT Connect**
+
+<br>
+
+2) 프로그램이 실행되고 설정할 언어를 선택합니다. 
+![Agent Installation Setup](/img/agent_installation_setup.png)   
+- **English**  
+- **한국어**  
+
+<br>
+
+1) 프로그램을 실행하여 정상적으로 동작하는지 확인합니다. 
+
+<br>
+
+![Agent Start View](/img/agent_controller_access.png)
+
+<br><br>
+
+<!-- TOC --><a name="5-"></a>
+## 5. 문제 해결 
+- 설치 중 오류 발생 시 관리자 권한으로 다시 시도하세요.
+- 추가 지원이 필요하면 IT 기술 지원 담당팀에 문의하세요.
+
+<br>
+
+--- 
