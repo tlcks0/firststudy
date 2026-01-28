@@ -7,7 +7,6 @@
 - [1. PRIBIT Connect Agent 실행](#1-)
 - [2. PCA 접속 로그인 정보 입력](#2-)
 - [3. PCA 로그인 완료](#3-)
-- [4. VDI 접속](#4-)
 
 <!-- TOC end -->
 
@@ -26,9 +25,9 @@ PCC 사용자 ID와 비밀번호를 입력하여 로그인합니다.
 ![pca controller access](/img/agent_controller_access.png)  
   - 컨트롤러 서버 주소 : PCC Server 주소를 입력합니다.   
   - 입력된 주소로 TLS(TCP 443 Port)통신을 통해 컨트롤러와 인증처리를 수행합니다.  
-    - **컨트롤러 서버 주소 : 211.173.76.19**  
+    - **컨트롤러 서버 주소 : 110.45.174.35**  
   - 컨트롤러 아이디 : PCC 에 설정한 컨트롤러 아이디를 입력합니다.  
-    - **컨트롤러 아이디 : kicox**  
+    - **컨트롤러 아이디 : neopharm**  
 
 <br>
 
@@ -46,16 +45,6 @@ PCC 사용자 ID와 비밀번호를 입력하여 로그인합니다.
 
 로그인이 정상적으로 완료되면 다음과 같은 화면으로 이동합니다.  
 ![pca login complete](/img/agent_login_complete.png)  
-
-<br>
-
-<!-- TOC --><a name="4-"></a>
-## 4. **VDI 접속**
-
-접속된 프로그램 화면에서 `서비스` 를 선택합니다. 
-`VDI 접속` 을 눌러 VDI 를 실행합니다. 
-
-![pca service vdi](/img/agent_service_vdi.png)  
 
 <br>
 
