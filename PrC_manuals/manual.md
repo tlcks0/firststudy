@@ -220,7 +220,7 @@ OTP 를 등록합니다.
 정상적으로 등록이 완료되면, 비밀번호 변경 메시지가 팝업됩니다.  
 *(비밀번호를 변경했습니다. 변경한 비밀번호로 다시 로그인해 주세요.)*   
 
-![pca user login complete changing temporary password](/img/agent_user_login_complete_changing_temporary_password.png)  
+![pca user login complete changing temporary password](/PrC_manuals/img/agent_user_login_complete_changing_temporary_password.png)  
 
 <br>  
 
