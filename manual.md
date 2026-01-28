@@ -31,8 +31,8 @@ PCC 사용자 ID와 비밀번호를 입력하여 로그인합니다.
 
 <br>
 
-접속할 사용자 아이디와 비밀번호를 입력합니다.  
-![pca user login](/img/agent_controller_user_login.png)  
+접속할 사용자 아이디와 비밀번호를 입력합니다.  <br>
+![pca user login](/img/agent_controller_user_login.png)  <br>
   - 사용자 아이디 : PCC 에 등록된 사용자 아이디를 입력합니다.  
   - ex) *pribit*  
   - 사용자 비밀번호 : 로그인 할 사용자의 비밀번호를 입력합니다.  
