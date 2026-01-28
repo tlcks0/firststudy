@@ -16,7 +16,6 @@
   - [4.1. Google Authenticator OTP 사용 가이드](#41-google-authenticator-otp-사용-가이드)
 - [5. PCA 임시 비밀번호 변경](#5-pca-임시-비밀번호-변경)
 - [6. PCA 로그인 완료](#6-pca-로그인-완료)
-- [7. VDI 접속](#7-vdi-접속)
 
 <!-- TOC end -->
 
@@ -38,7 +37,7 @@
 
 <!-- TOC --><a name="12-설치-파일-다운로드"></a>
 ### 1.2. 설치 파일 다운로드  
-1) 제공된 설치 파일 [다운로드](https://vpn.kicox.or.kr/) 링크에서 설치 파일을 다운로드합니다.  
+1) 제공된 설치 파일 [다운로드](https://support.packetgo.com/kr/front/home/neopharm) 링크에서 설치 파일을 다운로드합니다.  
 2) 다운로드가 완료되면 파일을 실행합니다.  
 
 <br><br> 
@@ -47,26 +46,26 @@
 ### 1.3. 설치 과정 
 
 1) 설치 마법사의 안내에 따라 **다음**을 클릭하여 진행합니다.  
-![Agent Installation - installing](/img/agent_installation_installing.png)  
+![Agent Installation - installing](/PrC_manuals/img/agent_installation_installing.png)  
 
 <br>
 
 2) 설치가 완료되면 **마침**을 클릭합니다.  
-![Agent Installation - complete install](/img/agent_installation_complete_install.png)   
+![Agent Installation - complete install](/PrC_manuals/img/agent_installation_complete_install.png)   
 
 <br><br>
 
 <!-- TOC --><a name="14-설치-확인"></a>
 ### 1.4. 설치 확인
 1) 바탕화면 또는 시작 메뉴에서 Connect Agent 아이콘을 확인합니다.  
-![Agent Installation - complete install icon](/img/agent_installation_complete_install_icon.png)  
+![Agent Installation - complete install icon](/PrC_manuals/img/agent_installation_complete_install_icon.png)  
 
 **PRIBIT Connect**
 
 <br>
 
 2) 프로그램이 실행되고 설정할 언어를 선택합니다. 
-![Agent Installation Setup](/img/agent_installation_setup.png)   
+![Agent Installation Setup](/PrC_manuals/img/agent_installation_setup.png)   
 - **English**  
 - **한국어** (선택)  
 
@@ -76,7 +75,7 @@
 
 <br>
 
-![Agent Start View](/img/agent_controller_access.png)
+![Agent Start View](/PrC_manuals/img/agent_controller_access.png)
 
 <br><br>
 
@@ -107,17 +106,17 @@
 ## 3. PCA 접속 로그인 정보 입력  
 
 PCC 접속 주소와 컨트롤러 아이디를 입력하여 로그인 합니다.  
-![pca controller access](/img/agent_controller_access.png)  
+![pca controller access](/PrC_manuals/img/agent_controller_access.png)  
   - 컨트롤러 서버 주소 : PCC Server 주소를 입력합니다.   
   - 입력된 주소로 TLS(TCP 443 Port)통신을 통해 컨트롤러와 인증처리를 수행합니다.  
-    - **컨트롤러 서버 주소 : 211.173.76.19**  
+    - **컨트롤러 서버 주소 : 110.45.174.35**  
   - 컨트롤러 아이디 : PCC 에 설정한 컨트롤러 아이디를 입력합니다.  
-    - **컨트롤러 아이디 : kicox**  
+    - **컨트롤러 아이디 : neopharm**  
 
 <br>
 
 접속할 사용자 아이디와 비밀번호를 입력합니다.   
-![pca user login](/img/agent_controller_user_login.png)   
+![pca user login](/PrC_manuals/img/agent_controller_user_login.png)   
   - 사용자 아이디 : PCC 에 등록된 사용자 아이디를 입력합니다.  
   - ex) *[신청한 사용자 ID]*  
   - 사용자 비밀번호 : 로그인 할 사용자의 비밀번호를 입력합니다. 
@@ -131,7 +130,7 @@ PCC 접속 주소와 컨트롤러 아이디를 입력하여 로그인 합니다.
 OTP 를 등록합니다. 
 휴대폰에서 Google Authenticator 앱을 열어 화면에 보이는 QR 코드를 스캔합니다.  
 
-![pca user login otp registration](/img/agent_user_login_otp_registration.png)   
+![pca user login otp registration](/PrC_manuals/img/agent_user_login_otp_registration.png)   
 
 <!-- TOC --><a name="41-google-authenticator-otp-사용-가이드"></a>
 ### 4.1. Google Authenticator OTP 사용 가이드
@@ -140,25 +139,25 @@ OTP 를 등록합니다.
 
 #### 4.1.1. 구글 OTP 앱 설치
 
-![Google Authenticator Installation - 1](/img/google_otp_1.png)  
+![Google Authenticator Installation - 1](/PrC_manuals/img/google_otp_1.png)  
 
 <br>
 
 #### 4.1.2. 구글 OTP 앱 실행
 
-![Google Authenticator Installation - 2](/img/google_otp_2.png)  
+![Google Authenticator Installation - 2](/PrC_manuals/img/google_otp_2.png)  
 
 <br>
 
 #### 4.1.3. QR 코드 등록하기
 
-![Google Authenticator Installation - 3](/img/google_otp_3.png)  
+![Google Authenticator Installation - 3](/PrC_manuals/img/google_otp_3.png)  
 
 <br> 
 
 #### 4.1.4. 구글 Authenticator 로 2단계 인증하기
 
-![Google Authenticator Installation - 4](/img/google_otp_4.png)  
+![Google Authenticator Installation - 4](/PrC_manuals/img/google_otp_4.png)  
 
 <br> 
 
@@ -168,7 +167,7 @@ OTP 를 등록합니다.
 
 성공적으로 등록이 완료되면, OTP 앱에서 OTP 코드를 확인하여 화면에 보이는 6자리 OTP 인증 코드를 입력합니다.   
 
-![pca user login otp registration](/img/agent_user_login_otp_verification.png)   
+![pca user login otp registration](/PrC_manuals/img/agent_user_login_otp_verification.png)   
 
 정상적으로 등록이 완료되면, OTP 등록 & 검증이 완료됩니다.   
 
@@ -191,22 +190,22 @@ OTP 를 등록합니다.
 
 아래 절차대로 임시 비밀번호를 변경합니다.   
 
-![pca user login temporary password](/img/agent_user_login_temporary_password.png)   
+![pca user login temporary password](/PrC_manuals/img/agent_user_login_temporary_password.png)   
 - `지금 변경` 버튼을 눌러 변경을 시작합니다.  
 - *`앱 종료` 버튼을 누르면 에이전트 프로그램이 종료됩니다.*   
 
 사용자 임시 비밀번호 변경을 위한 사용자 인증(MFA)을 수행합니다.  
 
-![pca user login temporary password - mfa email](/img/agent_user_login_mfa_email.png)   
+![pca user login temporary password - mfa email](/PrC_manuals/img/agent_user_login_mfa_email.png)   
 
 사용자 인증(MFA)은 계정에 등록된 이메일로 OTP 코드가 전달됩니다. 
 
-![pca user login temporary password - mfa email](/img/agent_user_login_mfa_email_otp_code.png)   
+![pca user login temporary password - mfa email](/PrC_manuals/img/agent_user_login_mfa_email_otp_code.png)   
 
 이메일로 전달된 OTP 코드를 앱 화면에 입력하여 인증합니다.   
 정상적으로 사용자 인증(MFA)이 완료되면 비밀번호를 변경하는 화면으로 이동합니다.  
 
-![pca user login change temporary password](/img/agent_user_login_change_temporary_password.png)   
+![pca user login change temporary password](/PrC_manuals/img/agent_user_login_change_temporary_password.png)   
 - `임시 비밀번호` : **1111** 
 - `새 비밀번호`, `새 비밀번호 재입력` : *아래 규칙에 맞게 입력합니다.*  
 
@@ -238,19 +237,10 @@ OTP 를 등록합니다.
 ## 6. PCA 로그인 완료   
 
 로그인이 정상적으로 완료되면 다음과 같은 화면으로 이동합니다.   
-![pca login complete](/img/agent_login_complete.png)   
+![pca login complete](/PrC_manuals/img/agent_login_complete.png)   
 
 <br>
 
-<!-- TOC --><a name="7-vdi-접속"></a>
-## 7. VDI 접속
-
-접속된 프로그램 화면에서 `서비스` 를 선택합니다. 
-`VDI 접속` 을 눌러 VDI 를 실행합니다. 
-
-![pca service vdi](/img/agent_service_vdi.png)  
-
-<br>
 
 *** 
 
