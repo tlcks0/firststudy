@@ -106,7 +106,7 @@
 ## 3. PCA 접속 로그인 정보 입력  
 
 PCC 접속 주소와 컨트롤러 아이디를 입력하여 로그인 합니다.  
-![pca controller access](/PrC_manuals/img/agent_controller_access.png)  
+![pca controller access](/PrC_manuals/img/agent_controller_access.png.png)  
   - 컨트롤러 서버 주소 : PCC Server 주소를 입력합니다.   
   - 입력된 주소로 TLS(TCP 443 Port)통신을 통해 컨트롤러와 인증처리를 수행합니다.  
     - **컨트롤러 서버 주소 : 110.45.174.35**  
